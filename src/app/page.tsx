@@ -1,9 +1,7 @@
-import MainLayout from "@/components/ui/MainLayout"
-
 export default function Home() {
   return (
-    <MainLayout>
-      asd
-    </MainLayout>
+    <div className="">
+      share sheeetmusic service 0.0.1a
+    </div>
   );
 }
